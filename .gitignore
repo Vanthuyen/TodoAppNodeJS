@@ -11,3 +11,5 @@ package.json
 # Stores VSCode versions used for testing VSCode extensions
 .vscode
 
+#Ignore type file
+tsconfig.json
